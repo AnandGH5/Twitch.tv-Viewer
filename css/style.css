@@ -1,0 +1,45 @@
+.header{
+  padding:10px;
+  background-image: -webkit-linear-gradient(top, #BEBEF4 0%, #E6E6FA 50%);
+  background-image: linear-gradient(to bottom, #BEBEF4 0%, #E6E6FA 50%);
+}
+
+img{
+  height:82px;
+  width:172px;
+}
+
+.fa{
+  margin-top:3px !important;
+}
+
+.box{
+  font-size:1.2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media screen and (min-width:1000px)
+{
+.box{
+  font-size:1.4em;
+  width:60% !important;
+  margin-left:22%;
+   }
+}
+
+#dp:hover{
+  -webkit-transform: scale(1.03,1.03);
+          transform: scale(1.03,1.03);
+}
+
+.offline{
+  background-color: #ffe6e6;
+}
+
+.online{
+  background-color: #ccffcc;
+}
+.fa-exclamation-circle{
+  font-size:3em !important;
+  margin-left:0.7em !important;
+}
