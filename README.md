@@ -1,3 +1,5 @@
+This project is tested with BrowserStack.
+
 # Twitch.tv-Viewer
 Demonstration of Twitch.tv JSON API 
 
